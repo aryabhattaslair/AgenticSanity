@@ -14,12 +14,23 @@
 
 6. Courses - https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/
 
+7. Very good article on Playbook on building with LLMs. Most Business Applications are around Agents / RAG. Interesting! - https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-i/
 
+8. There is a part 2 as well - https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-ii/
+
+9. Complex RAG systems in Production. Awesome detailed tutorial. REQUIRED LISTENING - https://parlance-labs.com/education/rag/ben.html
+
+## Interesting Ideas and Thoughts on Agents / RAG etc
+
+1. Interesting thoughts on building an application on LLMs - https://vickiboykis.com/2024/05/20/dont-worry-about-llms/
+   
+2. Issues working with Langchain. Complex brittle abstractions - https://www.octomind.dev/blog/why-we-no-longer-use-langchain-for-building-our-ai-agents#:~:text=The%20problem%20with%20LangChain's%20abstractions,understand%20and%20frustrating%20to%20maintain.
 
 ## Videos
 
 1. https://www.youtube.com/watch?v=MGkByeDm-90
 
+2. https://youtu.be/0nA5QG3087g
 
 
 ## Frameworks
